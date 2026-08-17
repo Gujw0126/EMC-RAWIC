@@ -1,0 +1,1 @@
+from .emc_rawic import RawCompressor_color_scale_bit
