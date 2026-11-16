@@ -57,7 +57,8 @@ Organize your RAW image dataset (e.g., Nikon, Sony, Samsung, Olympus) as follows
   ```
 
 ### 4. Model Evaluation (Testing)
-pretrained models can be found [here](https://drive.google.com/drive/folders/1cRTJDX09ydzxdH3hHIeB3zFTsvl-K7QP?usp=drive_link)
+pretrained models can be found [here](https://drive.google.com/drive/folders/1cRTJDX09ydzxdH3hHIeB3zFTsvl-K7QP?usp=drive_link)https://drive.google.com/drive/folders/1cRTJDX09ydzxdH3hHIeB3zFTsvl-K7QP?usp=drive_link
+
 Run the following script to test the model using pre-trained weights:
 ```bash
 (1)fill paths in test.py
